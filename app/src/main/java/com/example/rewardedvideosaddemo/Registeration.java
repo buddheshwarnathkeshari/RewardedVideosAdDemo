@@ -47,7 +47,7 @@ public class Registeration extends AppCompatActivity implements RewardedVideoAdL
 
            }
        });
-
+//cbsbfsb
     }
     private void loadRewardedVideoAd() {
         mRewardedVideoAd.loadAd("ca-app-pub-3940256099942544/5224354917",
